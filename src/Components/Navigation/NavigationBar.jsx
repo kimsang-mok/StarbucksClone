@@ -109,7 +109,7 @@ function NavigationBar({ handleNoScroll }) {
                             <Link to="/rewards">Rewards</Link>
                         </li>
                         <li>
-                            <a href="/giftcards">Gift Cards</a>
+                            <Link to="/giftcards">Gift Cards</Link>
                         </li>
                     </ul>
                     <ul className="navbar-nav-right">
